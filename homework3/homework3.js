@@ -12,7 +12,7 @@ const f2 = function (){
 const f3 = function (x, y){
 
 
-const  z = (x*y)/100
+const  z = (x*y)/100;
 
 
 
